@@ -1,0 +1,33 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.my, .answer{
+   display: block;
+   border-radius: 3px ;
+   padding: 5px;
+   margin-bottom: 20px;
+}
+
+.my{
+   background: greenyellow;
+   margin-left: 20px ;
+}
+.answer{
+   background-color: palevioletred ;
+   margin-right: 20px ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
